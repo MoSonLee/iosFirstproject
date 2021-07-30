@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  FirstAppProject
+//  MyDream
 //
-//  Created by 이승후 on 2021/07/13.
+//  Created by 이승후 on 2021/07/29.
 //
 
 import UIKit
